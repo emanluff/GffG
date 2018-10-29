@@ -14,3 +14,7 @@ struct packet
     int32_t sender_id;
 };
 
+struct packet_MPLS
+{
+
+}
